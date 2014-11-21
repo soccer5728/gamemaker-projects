@@ -7,7 +7,7 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_flappy_chicken</sprite>
-    <sprite>sprites\sprite1</sprite>
+    <sprite>sprites\spr_chicky</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
